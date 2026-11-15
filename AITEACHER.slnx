@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AITEACHER/AITEACHER.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
